@@ -1,0 +1,6 @@
+selector_name: BaseSelector
+result_dir_name: fl_random_all_alpaca_lora
+init_label_num: -1
+n_round: 3
+n_query: 100
+n_clients: 5

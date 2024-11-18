@@ -1,0 +1,2 @@
+data_path: llm/kmeans_fl_5
+data_name: alpaca_gpt4_data.json

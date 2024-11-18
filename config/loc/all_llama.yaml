@@ -1,0 +1,5 @@
+selector_name: BaseSelector
+result_dir_name: all_alpaca_lora
+init_label_num: -1
+n_round: 0
+n_query: 0

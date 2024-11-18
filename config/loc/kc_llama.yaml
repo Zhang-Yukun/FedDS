@@ -1,0 +1,5 @@
+selector_name: KCenterSelector
+result_dir_name: kc_alpaca_lora
+init_label_num: 100
+n_round: 10
+n_query: 100
