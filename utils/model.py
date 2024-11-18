@@ -3,7 +3,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM, PreTrainedTokenize
 
 def get_model(
         model_name: str,
-        token="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"
+        token=""
 ) -> AutoModelForCausalLM:
     """
     Get the model from the model name
@@ -22,7 +22,7 @@ def get_model(
 def get_model_and_tokenizer(
         model_name: str,
         model_max_length: int,
-        token="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"
+        token=""
 ) -> tuple[AutoModelForCausalLM, AutoTokenizer]:
     """
     Get the model from the model name
